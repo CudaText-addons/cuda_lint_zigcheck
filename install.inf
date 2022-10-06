@@ -1,0 +1,6 @@
+[info]
+title=Linter for Zig, using 'zig ast-check'
+desc=Linter for CudaLint, adds support for Zig lexer, uses "zig ast-check"
+type=cudatext-plugin
+subdir=cuda_lint_zigcheck
+homepage=https://github.com/CudaText-addons/cuda_lint_zigcheck
